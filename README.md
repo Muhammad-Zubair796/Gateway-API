@@ -11,7 +11,7 @@ This repository contains my hands-on practice with the modern **Kubernetes Gatew
 ## 📸 Lab Results & Architecture
 
 ### 1. URL Rewrite Logic
-!https://ahrefs.com/writing-tools/paragraph-rewriter(gatewayrewrite.PNG)
+![Rewrite](gatewayrewrite.PNG)
 ### 2. Weighted Traffic Distribution (80/20)
 ![Weighted Traffic](gatewayweighted.PNG)
 
